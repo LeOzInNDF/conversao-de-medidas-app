@@ -1,4 +1,4 @@
-## Aplicativo Signos e Datas.
+## Aplicativo Conversão de Medidas.
 
 Aplicativo desenvolvido para android, ios e Web<br>
 Para melhor minhas skils com react-native.<br>
